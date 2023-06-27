@@ -1,0 +1,18 @@
+.gallery {
+    background: url("../../images/sun.jpg") center no-repeat;
+    background-size: cover;
+    z-index: 1;
+    animation: flicker 10s ease infinite;
+}
+
+@keyframes flicker {
+    0% {
+      opacity: 0.5;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0.5;
+    }
+  }

@@ -1,0 +1,29 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/welcome/welcome.css);
+@import url(../blocks/welcome/__title/welcome__title.css);
+@import url(../blocks/welcome/__title-visible/welcome__title-visible.css);
+
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+
+@import url(../blocks/gallery/gallery.css);
+
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/__title/info__title.css);
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/__subtitle/form__subtitle.css);
+
+@import url(../blocks/list/list.css);
+@import url(../blocks/list/__title/list__title.css);
+
+@import url(../blocks/speech/speech.css);
+@import url(../blocks/speech/__title/speech__title.css);
+@import url(../blocks/speech/__subtitle/speech__subtitle.css);
+
+@import url(../blocks/contact/contact.css);
+
+@import url(../blocks/footer/footer.css);

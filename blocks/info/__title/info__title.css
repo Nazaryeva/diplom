@@ -1,0 +1,9 @@
+.info__title {
+    margin: 50px auto 0;
+    width: 100%;
+
+    font-weight: 600;
+    font-size: 65px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}

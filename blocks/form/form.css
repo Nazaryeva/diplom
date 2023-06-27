@@ -1,0 +1,9 @@
+.form {
+    margin-top: 80px;
+    width: 100%;
+    min-height: 500px;
+
+    background-image: url(../../images/puteshestvennica-s-rjukzakom-za-plechami.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

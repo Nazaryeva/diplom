@@ -1,0 +1,10 @@
+.description__title {
+    margin: 35px auto 0;
+    width: 100%;
+
+    font-weight: 800;
+    font-size: 65px;
+    text-align: center;
+
+    color: #ffffff;
+}

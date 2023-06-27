@@ -1,0 +1,26 @@
+.speech__title {
+    font-weight: 600;
+    font-size: 35px;
+
+    background: radial-gradient(circle, rgba(238, 174, 202, 0.283) 0%, rgba(148, 188, 233, 0.29) 100%);
+    color: rgb(252, 123, 222);
+}
+
+.speech__title:hover {
+    animation: enlarge 0.5s linear;
+    background-color: #dfe6e9;
+    color: #2d3436;
+    cursor: pointer;
+  }
+  
+  @keyframes enlarge {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }

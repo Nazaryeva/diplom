@@ -1,0 +1,13 @@
+.welcome {
+    max-width: 1184px;
+    min-height: 300px;
+    margin: 30px auto 0;
+    width: 100%;
+
+    background-image: url(../../images/buhta-afrodity-kipr.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    cursor: pointer;
+}
